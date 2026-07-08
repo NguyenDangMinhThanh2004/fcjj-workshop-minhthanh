@@ -34,7 +34,7 @@ Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân t
 ### Cần cải thiện
 
 * Nâng cao tính kỷ luật và tinh thần trách nhiệm, luôn tuân thủ nghiêm túc các quy định, quy trình và nội quy của công ty cũng như trong mọi môi trường làm việc.
-* Rèn luyện tư duy phân tích và giải quyết vấn đề một cách logic, chủ động tìm kiếm giải pháp tối ưu thay vì chỉ tập trung vào khó khăn.
+* Rèn luyện tư duy phân tích và giải quyết vấn đề một cách logic, chủ động tìm kiếm giải pháp tối ưu thay vì chỉ tập trung vào khó khăn vấn đề.
 * Cải thiện kỹ năng giao tiếp trong công việc và cuộc sống hằng ngày, đặc biệt là khả năng lắng nghe, trình bày ý tưởng và xử lý tình huống một cách chuyên nghiệp.
 * Nâng cao kỹ năng làm việc nhóm, tăng cường khả năng phối hợp và hỗ trợ đồng nghiệp để đạt được mục tiêu chung.
 * Cải thiện khả năng quản lý thời gian, sắp xếp công việc hợp lý và hoàn thành nhiệm vụ đúng tiến độ.
