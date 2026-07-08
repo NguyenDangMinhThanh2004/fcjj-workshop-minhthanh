@@ -1,6 +1,6 @@
 baseURL = "https://nguyendangminhthanh2004.github.io/fcjj-workshop-minhthanh/"
-relativeURLs = false
-canonifyURLs = true
+relativeURLs = true
+canonifyURLs = false
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
