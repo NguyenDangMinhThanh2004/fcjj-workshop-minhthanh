@@ -25,6 +25,20 @@ During my internship, I participated in two events. Each one was a memorable exp
 
 ### [Event 2](4.2-Event2/)  
 &emsp;**Event Name:** Meetup Event  
+
 &emsp;**Date & Time:** June 6, 2026  
+
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+
 &emsp;**Role:** Attendee  
+
+
+### [Event 3](4.3-Event3/)
+
+&emsp;**Event Name:** FCAJ Community Day - June 2026
+
+&emsp;**Date:** June 27, 2026
+
+&emsp;**Location:** Bitexco Financial Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City, Vietnam
+
+&emsp;**Role:** Participant

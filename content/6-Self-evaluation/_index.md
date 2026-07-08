@@ -32,6 +32,11 @@ To objectively reflect on my internship period, I would like to evaluate myself 
 
 ### Needs Improvement
 
-* Strengthen discipline and strictly comply with the rules and regulations of the company or any organization  
-* Improve problem-solving thinking  
-* Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively
+* Strengthen self-discipline and maintain a strong sense of responsibility by strictly following company policies, workplace regulations, and organizational standards.
+* Improve analytical thinking and problem-solving skills by approaching challenges logically and proactively identifying effective solutions.
+* Develop stronger communication skills in both daily interactions and professional environments, with a focus on active listening, presenting ideas clearly, and handling different situations effectively.
+* Enhance teamwork and collaboration skills by working efficiently with colleagues, sharing knowledge, and contributing to common goals.
+* Improve time management and task prioritization to ensure assignments are completed on schedule while maintaining high-quality results.
+* Continuously expand technical knowledge by learning new technologies, tools, and industry best practices to keep up with the rapidly evolving IT field.
+* Strengthen self-learning and research abilities by exploring technical documentation, experimenting with new technologies, and applying them to real-world projects.
+* Improve professional English proficiency for reading technical documentation, communicating with international teams, and working effectively in a global environment.

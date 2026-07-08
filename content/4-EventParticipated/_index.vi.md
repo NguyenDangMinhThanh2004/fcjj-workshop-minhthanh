@@ -28,6 +28,20 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 
 ### [Event 2](4.2-Event2/)
 &emsp;**Tên sự kiện:** Meetup Event
+
 &emsp;**Thời gian:** Ngày 6 tháng 6 năm 2026
+
 &emsp;**Địa điểm:** Tầng 26, Tòa nhà Bitexco, 02 Đường Hai Triều, Phường Sài Gòn, Thành phố Hồ Chí Minh
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự
+
+
+### [Event 3](4.3-Event3/)
+
+&emsp;**Tên sự kiện:** FCAJ Community Day - Tháng 6 năm 2026
+
+&emsp;**Thời gian:** Ngày 27 tháng 6 năm 2026
+
+&emsp;**Địa điểm:** Bitexco Financial Tower, số 02 Đường Hải Triều, Phường Sài Gòn, Thành phố Hồ Chí Minh
+
 &emsp;**Vai trò trong sự kiện:** Người tham dự
