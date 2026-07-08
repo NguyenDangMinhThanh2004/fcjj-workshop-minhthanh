@@ -52,12 +52,12 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}/
+          HUGO_RELATIVEURLS: false
+          HUGO_CANONIFYURLS: true
         run: |
           hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --relativeURLs=false \
-            --canonifyURLs=true
+            --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
