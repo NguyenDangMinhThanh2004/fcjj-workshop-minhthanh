@@ -1,153 +1,76 @@
 ---
 title: "Event 1"
-date: 2026-05-23
+date: 2026-06-27
 weight: 1
 chapter: false
-pre: " <b> 4.1. </b> "
+pre: " <b> 4.1. </b> " 
 ---
 
+# Báo cáo tóm tắt: "FCAJ Community Day"
 
+## Mục tiêu của sự kiện
 
-# Bài thu hoạch: "FCAJ Community Day"
+**FCAJ Community Day - Tháng 6 năm 2026** được tổ chức nhằm kết nối các sinh viên, lập trình viên và những người yêu thích công nghệ, đặc biệt là các lĩnh vực **AWS Cloud**, **Trí tuệ nhân tạo (AI)**, **DevOps**, **AI Agents** và các xu hướng công nghệ mới. Sự kiện hướng đến việc giúp người tham dự có cái nhìn thực tế hơn về cách AI và điện toán đám mây đang thay đổi hoạt động của doanh nghiệp, đặc biệt trong vận hành hệ thống, tự động hóa DevOps, phát triển Voice Agent, nâng cao năng suất làm việc và xây dựng các kết nối AI an toàn.
 
-## Mục Đích Của Sự Kiện
+Thay vì chỉ tập trung vào lý thuyết, chương trình ưu tiên các nội dung mang tính ứng dụng cao cùng những tình huống thực tế trong doanh nghiệp. Thông qua các bài chia sẻ chuyên môn và phần trình diễn kỹ thuật, người tham dự hiểu rõ hơn cách nền tảng Cloud hỗ trợ triển khai các giải pháp AI thông minh có khả năng tự động hóa quy trình, phân tích dữ liệu và hỗ trợ quá trình ra quyết định.
 
-Cung cấp cho người tham gia cái nhìn tổng quan về các xu hướng công nghệ hiện tại, đặc biệt là trí tuệ nhân tạo, điện toán đám mây, các mô hình ngôn ngữ lớn, hệ thống đa tác nhân và phát triển sản phẩm thực tế.
+Bên cạnh việc mở rộng kiến thức chuyên môn, sự kiện còn tạo điều kiện để người tham gia kết nối với các chuyên gia trong ngành, giao lưu cùng cộng đồng công nghệ và định hướng tốt hơn cho việc học tập, xây dựng dự án cá nhân cũng như phát triển nghề nghiệp trong các lĩnh vực Cloud Computing, DevOps, Backend Development, Data Engineering và Artificial Intelligence.
 
-Giúp người tham gia hiểu cách AI và Cloud đang được áp dụng trong học tập, phát triển phần mềm, vận hành doanh nghiệp, tối ưu hóa hệ thống và ra quyết định kinh doanh.
+## Thông tin chung
 
-Giới thiệu các cách tiếp cận thực tế để sử dụng AI hiệu quả, bao gồm cung cấp ngữ cảnh tốt hơn, xây dựng trợ lý AI, tối ưu hóa hệ thống với Amazon CloudFront và hiểu cách các LLM hoạt động trong môi trường sản xuất.
+- **Thời gian:** 09:00 - 12:00, ngày 27 tháng 6 năm 2026
+- **Địa điểm:** Bitexco Financial Tower, số 02 đường Hải Triều, Phường Sài Gòn, Thành phố Hồ Chí Minh
+- **Tên sự kiện:** FCAJ Community Day - Tháng 6 năm 2026
+- **Chủ đề:** Data Driven, AI Risen
+- **Hình thức:** Sự kiện cộng đồng kết hợp các buổi chia sẻ kỹ thuật, trình diễn công nghệ và giao lưu kết nối
+- **Vai trò:** Người tham dự
+- **Nội dung chính:** AWS Cloud, AI Agents, Voice AI, DevOps Automation, Amazon Bedrock, Amazon Quick, MCP và các giải pháp bảo mật AI
 
-Tạo cơ hội cho sinh viên, nhà phát triển và những người yêu thích công nghệ học hỏi từ các diễn giả có kinh nghiệm, kết nối với cộng đồng và có động lực để xây dựng các sản phẩm công nghệ thực tế.
 
-## Thông Tin Chung
+## Diễn giả và các chủ đề trình bày
 
-* **Tên sự kiện:** FCAJ Community Day
-* **Thời gian:** 09:00, ngày 23 tháng 5 năm 2026
-* **Địa điểm:** Tầng 26, Tòa nhà Bitexco, 02 Đường Hai Triều, Phường Sài Gòn, Thành phố Hồ Chí Minh
-* **Vai trò:** Người tham dự
+Sự kiện bao gồm nhiều phiên chia sẻ do các chuyên gia công nghệ trình bày, tập trung vào cách AI và điện toán đám mây đang thay đổi quá trình phát triển phần mềm, vận hành hệ thống và đảm bảo an toàn cho các giải pháp doanh nghiệp.
 
-## Diễn Giả / Người Trình Bày Chính
+### Danh sách chủ đề và diễn giả
 
-* **Tinh Trương** – Platform Engineer, GoTymeX
-* **Phạm Ng Hải Anh** – G-AsiaPacific Vietnam, AWS Community Builder
-* **Nguyễn Tuấn Thịnh** – DevOps Engineer, First Cloud AI Journey
-* **Team VIB** – Đội ngũ phát triển UTMorpho tại LotusHacks
-* **Đức Đào** – Solution Architect, Cloud Kinetics
-* **Vy Lam** – Senior Business Systems Analyst, VPBank
+- **Nhat Tran - Deep Response Engine**: From Detection to Autonomous Resolution
+- **Trung Vu, Kiet Tran and Nghi Danh** - Voice Agents: Building Human-Like AI Conversations at Scale
+- **Bao Phan and Minh Nguyen Nguyen** - AWS DevOps Agent: Your Always-Available Operations Teammate
+- **Truong Tran and Anh Dang** - AI-Powered Productivity: Workforce Planning For Enterprise
+- **Toan Nguyen and Nghi Danh** - Building Secure Private MCP Connection with Amazon Quick
 
-## Chủ Đề Chính & Nội Dung Học Được
+## Lịch trình sự kiện
 
-### Context Engineering để Sử Dụng AI Tốt Hơn
+### 08:30 - 09:00: Check-in và ổn định chỗ ngồi
 
-Một trong những thông điệp chính từ sự kiện là hiệu suất của AI phụ thuộc rất nhiều vào chất lượng ngữ cảnh do người dùng cung cấp. Trong nhiều trường hợp, AI không đưa ra câu trả lời hữu ích vì prompt quá chung chung, thiếu thông tin nền hoặc không mô tả rõ ràng đầu ra mong đợi.
+Buổi sáng bắt đầu với hoạt động đăng ký và đón tiếp người tham dự. Trong khoảng thời gian này, mọi người hoàn tất thủ tục check-in, ổn định vị trí và có cơ hội giao lưu với các thành viên trong cộng đồng FCAJ có cùng sự quan tâm đến AWS, AI, DevOps và các công nghệ hiện đại.
 
-Một yêu cầu tốt nên bao gồm mục tiêu, dữ liệu liên quan, các ràng buộc, định dạng đầu ra và tiêu chí đánh giá. Khi ngữ cảnh rõ ràng, AI có thể tạo ra các câu trả lời chính xác, phù hợp hơn và dễ áp dụng vào các nhiệm vụ thực tế hơn.
+### 09:00 - 09:25: Deep Response Engine: From Detection to Autonomous Resolution
 
-Phiên này cũng giới thiệu ý tưởng về **Second AI Brain**, trong đó AI không chỉ được sử dụng cho các câu trả lời một lần mà còn có thể hỗ trợ tổ chức kiến thức dài hạn, phân tích tài liệu, ghi chú và hệ thống học tập cá nhân.
+**Diễn giả:** Nhat Tran
 
-### Trợ Lý AI Thân Thiện với Amazon Quick
+Phiên chia sẻ đầu tiên giới thiệu cách trí tuệ nhân tạo đang thay đổi phương pháp xử lý sự cố trong vận hành hệ thống. Thay vì chỉ dựa vào các công cụ giám sát truyền thống để gửi cảnh báo, các nền tảng ứng dụng AI có thể tự động phát hiện vấn đề, phân tích nguyên nhân tiềm ẩn và đề xuất hướng xử lý phù hợp.
 
-Phiên về Amazon Quick đã chỉ ra cách các trợ lý AI có thể hỗ trợ phân tích dữ liệu, tự động hóa quy trình, tạo báo cáo và cộng tác. AI không còn giới hạn ở các tương tác trò chuyện đơn giản; nó có thể trở thành trợ lý thực tế cho công việc hàng ngày.
+Nội dung của phiên trình bày nhấn mạnh xu hướng **Autonomous Incident Response**, trong đó AI hỗ trợ đội ngũ vận hành bằng cách xử lý log, metric và dữ liệu giám sát nhanh chóng hơn so với phương pháp thủ công. Điều này giúp doanh nghiệp phát hiện sự cố sớm hơn và nâng cao hiệu quả vận hành.
 
-Một số thành phần quan trọng đã được giới thiệu, bao gồm Quick Chat Agent để khám phá dữ liệu, Quick Flows để xây dựng quy trình bằng ngôn ngữ tự nhiên, Quick Spaces để cộng tác nhóm và Quick Sight để tạo bảng điều khiển và báo cáo.
+Thông qua buổi chia sẻ, người tham dự nhận thấy rằng việc vận hành hệ thống trên nền tảng Cloud không chỉ dừng lại ở giám sát, mà còn cần khả năng phân tích thông minh, phản hồi nhanh và tối ưu hóa liên tục nhằm giảm thời gian gián đoạn dịch vụ, tiết kiệm chi phí và tăng độ ổn định của hệ thống.
 
-Từ phiên này, người tham dự học được rằng các trợ lý AI có thể giảm các nhiệm vụ lặp đi lặp lại, cải thiện việc ra quyết định và giúp cả người dùng kỹ thuật và không kỹ thuật làm việc hiệu quả hơn.
+### 09:25 - 09:55: Voice Agents: Building Human-Like AI Conversations at Scale
 
-### Amazon CloudFront và Tối Ưu Hóa Hệ Thống
+**Diễn giả:** Trung Vu, Kiet Tran và Nghi Danh
 
-Phiên CloudFront đã giải thích cách Amazon CloudFront đóng vai trò quan trọng trong kiến trúc đám mây hiện đại. CloudFront không chỉ là một CDN để phân phối nội dung tĩnh mà còn là lớp nền tảng để cải thiện hiệu suất, độ tin cậy, bảo mật và hiệu quả chi phí.
+Phiên trình bày này tập trung vào sự phát triển mạnh mẽ của công nghệ Voice AI và khả năng ứng dụng trong doanh nghiệp hiện đại. Khác với các hệ thống phản hồi bằng giọng nói truyền thống, Voice Agent ngày nay có thể hiểu ngữ cảnh cuộc hội thoại, duy trì trao đổi tự nhiên và đưa ra phản hồi linh hoạt dựa trên nhu cầu của người dùng.
 
-CloudFront giúp giảm độ trễ bằng cách lưu bộ nhớ đệm nội dung gần người dùng hơn thông qua các vị trí biên toàn cầu. Nó cũng giảm tải cho các máy chủ nguồn và cải thiện trải nghiệm người dùng cho các trang web, API và ứng dụng có lưu lượng truy cập cao.
+Các diễn giả cũng chia sẻ những thách thức khi triển khai Voice Agent ở quy mô lớn như độ chính xác của nhận diện giọng nói, độ trễ phản hồi, bảo mật dữ liệu, khả năng tích hợp với hệ thống backend và việc đảm bảo trải nghiệm người dùng.
 
-Phiên này cũng nhấn mạnh các tính năng bảo mật như HTTPS, kiểm soát truy cập, AWS WAF, AWS Shield, URL đã ký, chính sách lưu bộ nhớ đệm và chuyển đổi dự phòng nguồn. Các tính năng này giúp hệ thống trở nên nhanh hơn, an toàn hơn và ổn định hơn trong các môi trường sản xuất.
+Sau phiên chia sẻ, người tham dự hiểu rõ hơn cách Voice AI có thể được ứng dụng trong chăm sóc khách hàng, trợ lý ảo, hỗ trợ nội bộ và tự động hóa các hoạt động giao tiếp trong doanh nghiệp.
 
-### Xây Dựng UTMorpho trong 36 Giờ tại LotusHacks
+### 09:55 - 10:20: AWS DevOps Agent: Your Always-Available Operations Teammate
 
-Team VIB đã chia sẻ kinh nghiệm xây dựng **UTMorpho** trong LotusHacks chỉ trong 36 giờ. Câu chuyện của họ cho thấy phát triển sản phẩm không phải lúc nào cũng bắt đầu với một ý tưởng hoàn hảo. Thay vào đó, nó thường bắt đầu bằng việc quan sát các vấn đề thực tế, xác định các điểm đau và dần dần định hình một giải pháp.
+**Diễn giả:** Bao Phan và Minh Nguyen Nguyen
 
-Đội ngũ phải đối mặt với áp lực thời gian, các vấn đề kỹ thuật, phân chia nhiệm vụ, tích hợp, kiểm tra và chuẩn bị demo. Điều này giúp người tham dự hiểu rằng một hackathon không chỉ là về việc viết mã nhanh mà còn về làm việc nhóm, tư duy sản phẩm, ưu tiên và giao tiếp.
+Buổi chia sẻ trình bày cách các DevOps Agent được hỗ trợ bởi AI có thể giúp đội ngũ kỹ thuật tự động hóa nhiều công việc vận hành hằng ngày. Những tác vụ như giám sát hạ tầng, kiểm tra log, theo dõi pipeline, phân tích sự cố và đánh giá tình trạng hệ thống đều có thể được thực hiện hiệu quả hơn nhờ AI.
 
-Một bài học quan trọng từ phiên này là các đội nên tập trung vào giá trị cốt lõi của sản phẩm, xây dựng MVP trước và tránh cố gắng triển khai quá nhiều tính năng trong thời gian hạn chế.
+Các diễn giả giải thích cách những AI Agent thu thập dữ liệu vận hành, phân tích thông tin và đưa ra các gợi ý hữu ích nhằm rút ngắn thời gian xử lý sự cố. Một mục tiêu quan trọng là giảm **MTTD (Mean Time to Detect)** và **MTTR (Mean Time to Resolve)** để doanh nghiệp có thể phản ứng nhanh hơn trước các vấn đề phát sinh.
 
-### Không Xác Định trong Đầu Ra Của LLM
-
-Một phiên quan trọng khác đã thảo luận về hành vi của các Mô hình Ngôn ngữ Lớn. LLM tạo ra phản hồi từng token dựa trên xác suất, điều đó có nghĩa là đầu ra của chúng có thể không phải lúc nào cũng hoàn toàn giống nhau, ngay cả khi các cài đặt có vẻ xác định.
-
-Phiên này giải thích rằng ngay cả với **temperature = 0**, đầu ra vẫn có thể thay đổi do tối ưu hóa suy luận, xử lý song song, xử lý theo lô hoặc sự khác biệt về cơ sở hạ tầng. Đây là một điểm quan trọng cho các nhà phát triển muốn tích hợp LLM vào các ứng dụng thực tế.
-
-Điều rút ra chính là các hệ thống AI không nên chỉ dựa vào các prompt. Các hệ thống sản xuất cần xác thực, đầu ra có cấu trúc, logic dự phòng, giám sát và kiểm tra lặp lại để giảm rủi ro kết quả không nhất quán.
-
-### Hệ Thống Đa Tác Nhân Cấp Doanh Nghiệp
-
-Phiên cuối cùng đã giới thiệu một hệ thống đa tác nhân cấp doanh nghiệp thông qua một nghiên cứu trường hợp chấm điểm tín dụng khởi nghiệp. Thay vì sử dụng một tác nhân AI duy nhất để đánh giá mọi thứ, hệ thống đã sử dụng nhiều tác nhân với các trách nhiệm khác nhau.
-
-Các tác nhân đề xuất bao gồm:
-
-* **Financial Analyst**
-* **Market Analyst**
-* **Team Evaluator**
-* **Risk Assessor**
-* **Compliance Agent**
-* **Manager Agent**
-
-Mô hình này hoạt động như một ủy ban tín dụng ảo, trong đó mỗi tác nhân tập trung vào một lĩnh vực đánh giá cụ thể. Cách tiếp cận này cải thiện chuyên môn hóa, kiểm tra chéo, khả năng kiểm toán và kiểm soát.
-
-Từ chủ đề này, người tham dự học được rằng AI trong môi trường doanh nghiệp không chỉ phải thông minh mà còn phải an toàn, giải thích được, tuân thủ và có thể mở rộng.
-
-## Điều Rút Ra Chính
-
-### Tư Duy Sử Dụng AI
-
-AI nên được sử dụng với ngữ cảnh rõ ràng và mục tiêu rõ ràng. Một prompt tốt cần đủ thông tin nền, định dạng đầu ra mong đợi và các ràng buộc. Người dùng không nên thụ động chấp nhận phản hồi của AI mà nên xác minh, tinh chỉnh và cải thiện kết quả.
-
-### Trợ Lý AI và Tự Động Hóa
-
-Các trợ lý AI có thể hỗ trợ các nhiệm vụ thực tế như phân tích dữ liệu, tạo báo cáo, tạo bảng điều khiển, xây dựng quy trình và cải thiện cộng tác nhóm. Điều này cho thấy cách AI có thể hỗ trợ cả người dùng kỹ thuật và kinh doanh.
-
-### Kiến Trúc Đám Mây và Tối Ưu Hóa
-
-CloudFront đã chứng minh rằng một hệ thống đám mây tốt không chỉ cần chạy chính xác mà còn phải nhanh, an toàn, đáng tin cậy và hiệu quả về chi phí. Lưu bộ nhớ đệm, các vị trí biên, bảo vệ nguồn và chuyển đổi dự phòng là những khái niệm quan trọng cho các hệ thống sản xuất.
-
-### Tư Duy Sản Phẩm và Làm Việc Nhóm
-
-Câu chuyện UTMorpho cho thấy một sản phẩm tốt bắt đầu từ một vấn đề thực tế. Trong một thời gian phát triển ngắn, các đội cần tập trung vào các tính năng cốt lõi, phân chia nhiệm vụ rõ ràng, kiểm tra liên tục và chuẩn bị một bài thuyết trình mạnh mẽ.
-
-### Độ Tin Cậy Của LLM
-
-LLM mạnh mẽ nhưng không phải lúc nào cũng hoàn toàn có thể đoán trước được. Khi áp dụng LLM vào các hệ thống thực tế, nhà phát triển cần xác thực đầu ra, giám sát, các biện pháp bảo vệ và cơ chế dự phòng để làm cho hệ thống đáng tin cậy hơn.
-
-### Tư Duy AI Doanh Nghiệp
-
-Các hệ thống AI doanh nghiệp yêu cầu nhiều hơn là hiệu suất mô hình. Chúng cũng cần bảo mật, tuân thủ, dấu vết kiểm toán, khả năng mở rộng và kiểm soát vận hành. Các hệ thống đa tác nhân hữu ích cho các nhiệm vụ phức tạp đòi hỏi nhiều góc nhìn.
-
-## Ứng Dụng Vào Công Việc
-
-Kiến thức từ FCAJ Community Day có thể được áp dụng vào học tập, dự án cá nhân và phát triển phần mềm thực tế.
-
-Khi sử dụng AI cho việc học, mã hóa, viết báo cáo hoặc thiết kế hệ thống, tôi nên cung cấp ngữ cảnh rõ ràng hơn, bao gồm mục tiêu, dữ liệu đầu vào, định dạng mong đợi và các giới hạn. Điều này sẽ giúp AI tạo ra kết quả hữu ích và chính xác hơn.
-
-Đối với các dự án web hoặc đám mây, kiến thức về Amazon CloudFront có thể được áp dụng để cải thiện tốc độ tải trang web, giảm tải máy chủ, bảo vệ nguồn và tối ưu hóa chi phí. CloudFront cũng có thể được kết hợp với HTTPS, WAF, Shield, các chính sách lưu bộ nhớ đệm và chuyển đổi dự phòng nguồn để sẵn sàng sản xuất tốt hơn.
-
-Đối với các dự án làm việc nhóm và hackathon, tôi có thể áp dụng cách tiếp cận được chia sẻ bởi Team VIB: bắt đầu từ một vấn đề thực tế, xác định MVP, phân chia nhiệm vụ rõ ràng, xây dựng nhanh chóng, kiểm tra thường xuyên và chuẩn bị một bài thuyết trình tập trung.
-
-Đối với các hệ thống dựa trên AI, tôi không nên chỉ phụ thuộc vào các prompt. Cần phải thêm xác thực, đầu ra có cấu trúc, giám sát, ghi nhật ký và xử lý dự phòng để làm cho các ứng dụng AI an toàn và ổn định hơn.
-
-## Kế Hoạch Hành Động Cá Nhân
-
-* Thực hành viết các prompt AI tốt hơn với ngữ cảnh rõ ràng, mục tiêu, ràng buộc và định dạng đầu ra.
-* Áp dụng các khái niệm CloudFront vào các dự án web hoặc đám mây trong tương lai để cải thiện hiệu suất và bảo mật.
-* Xây dựng một dự án nhỏ sử dụng AI để hỗ trợ phân tích tài liệu, ghi chú hoặc tạo báo cáo.
-* Học thêm về hành vi LLM, đầu ra có cấu trúc, xác thực và các biện pháp bảo vệ.
-* Tìm hiểu thêm về các hệ thống đa tác nhân và cách chúng có thể được sử dụng cho các quy trình kinh doanh phức tạp.
-* Cải thiện làm việc nhóm và tư duy sản phẩm bằng cách thực hành lập kế hoạch MVP và chuẩn bị demo.
-
-## Suy Ngẫm Cá Nhân
-
-FCAJ Community Day là một sự kiện giá trị vì nó kết nối nhiều chủ đề công nghệ hiện đại với các trường hợp sử dụng thực tế. Các phiên giúp tôi hiểu rằng AI và Cloud không chỉ là các khái niệm lý thuyết mà còn là những công cụ có thể giải quyết các vấn đề thực tế trong học tập, phát triển phần mềm, tối ưu hóa hệ thống và vận hành doanh nghiệp.
-
-Bài học hữu ích nhất đối với tôi là công nghệ phải được sử dụng với ngữ cảnh phù hợp. AI cần ngữ cảnh rõ ràng để tạo ra kết quả tốt hơn, hệ thống Cloud cần kiến trúc phù hợp để nhanh và an toàn, và sản phẩm cần bắt đầu từ các vấn đề người dùng thực tế.
-
-Sau sự kiện, tôi có thêm động lực để tiếp tục học AWS, AI, Kiến Trúc Đám Mây và Kỹ Thuật Phần Mềm. Tôi cũng nhận ra rằng ngoài kỹ năng kỹ thuật, tôi cần phát triển tư duy hệ thống, tư duy sản phẩm, làm việc nhóm và khả năng học tập liên tục để phát triển trong lĩnh vực công nghệ.
-
-> Tổng thể, FCAJ Community Day giúp tôi có được kiến thức thực tế về AI, Cloud, LLM, CloudFront, phát triển sản phẩm và các hệ thống đa tác nhân. Sự kiện đã cho tôi cả những hiểu biết kỹ thuật và động lực để tiếp tục xây dựng các dự án và cải thiện hướng nghề nghiệp của mình trong công nghệ.
+Thay vì thay thế kỹ sư DevOps, AI đóng vai trò như một trợ lý hỗ trợ, giúp các kỹ sư tập trung vào những quyết định kỹ thuật quan trọng trong khi các công việc lặp lại được tự động hóa hiệu quả hơn.
